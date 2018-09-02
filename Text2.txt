@@ -1,0 +1,1 @@
+Your simulator must output the name of the job running on the CPU in each time  slice  and  must  process  a  sequence of  commands,  one  per  time 'slice,  each  of which  is of the form "add job name with length n and priority p" or "no new job this slice".
